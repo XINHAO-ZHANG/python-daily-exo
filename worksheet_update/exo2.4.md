@@ -5,4 +5,5 @@ The term of rank n, denoted fn is defined by f0 = 0, f1 = 1 and fn = fn-1 + fn-2
 For example, the call fibo(5) will display: 0 1 1 2 3
 
 # 2
+exo2:
 ![Alt text](https://github.com/XINHAO-ZHANG/python-daily-exo/edit/main/worksheet_update/exo2.4.png)
