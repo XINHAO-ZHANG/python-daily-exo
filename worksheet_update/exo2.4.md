@@ -6,4 +6,4 @@ For example, the call fibo(5) will display: 0 1 1 2 3
 
 # 2
 exo2:
-![Alt text](https://github.com/XINHAO-ZHANG/python-daily-exo/edit/main/worksheet_update/exo2.4.png)
+![Alt text](https://raw.githubusercontent.com/XINHAO-ZHANG/python-daily-exo/edit/main/worksheet_update/exo2.4.png)
